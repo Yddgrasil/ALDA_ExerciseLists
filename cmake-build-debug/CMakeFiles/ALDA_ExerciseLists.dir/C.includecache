@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/list.c
+list.h
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/list.h
+
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/list.h
+stdio.h
+-
+
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/main.c
+list.h
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/list.h
+stdlib.h
+-
+

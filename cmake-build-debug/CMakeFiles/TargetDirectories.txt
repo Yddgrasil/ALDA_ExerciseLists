@@ -1,0 +1,3 @@
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/cmake-build-debug/CMakeFiles/ALDA_ExerciseLists.dir
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dani/CLionProjects/ALDA_ExerciseLists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
